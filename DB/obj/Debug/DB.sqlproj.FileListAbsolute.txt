@@ -1,0 +1,6 @@
+C:\Users\Spear\Documents\ZCodigo\Visual Studio 2019\DB\bin\Debug\DB.dacpac
+C:\Users\Spear\Documents\ZCodigo\Visual Studio 2019\DB\obj\Debug\DB.dll
+C:\Users\Spear\Documents\ZCodigo\Visual Studio 2019\DB\obj\Debug\DB.pdb
+C:\Users\Spear\Documents\ZCodigo\Visual Studio 2019\DB\bin\Debug\DB.dll
+C:\Users\Spear\Documents\ZCodigo\Visual Studio 2019\DB\bin\Debug\DB.pdb
+C:\Users\Spear\Documents\ZCodigo\Visual Studio 2019\DB\obj\Debug\DB.sqlproj.AssemblyReference.cache

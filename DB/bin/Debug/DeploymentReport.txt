@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Contas] (Table)
+       [dbo].[Correntistas] (Table)
+       [dbo].[Lançamentos] (Table)
+       [dbo].[FK_CORRENTISTA_CONTA] (Foreign Key)
+       [dbo].[FK_CONTA_LANCAMENTO] (Foreign Key)
+
+** Supporting actions

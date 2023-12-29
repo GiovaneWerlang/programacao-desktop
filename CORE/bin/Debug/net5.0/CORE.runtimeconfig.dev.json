@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Spear\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Spear\\.nuget\\packages"
+    ]
+  }
+}

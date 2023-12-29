@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProjetoFinalTerminalBancarioPD25S/1.0.0": {
+        "runtime": {
+          "ProjetoFinalTerminalBancarioPD25S.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoFinalTerminalBancarioPD25S/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
